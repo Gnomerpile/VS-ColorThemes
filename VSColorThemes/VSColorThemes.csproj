@@ -70,6 +70,7 @@
     </Content>
     <Content Include="Themes\Aletheia.xml" />
     <Content Include="Themes\Bigface.xml" />
+    <Content Include="Themes\DarkBlue+.xml" />
     <Content Include="Themes\DarkExtraContrast.xml" />
     <Content Include="Themes\DarkWithLightEditor.xml" />
     <Content Include="Themes\Green.xml" />
